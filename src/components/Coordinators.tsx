@@ -46,7 +46,7 @@ export default function Coordinators() {
                             <div className="relative w-[14.5rem] h-[14.5rem] sm:w-52 sm:h-52 md:w-56 md:h-56 rounded-full bg-[#980204] border-[4px] border-[#f5b461] flex items-end justify-center overflow-hidden z-20 shadow-lg" style={{ marginTop: '-1rem' }}>
                                 <div className="absolute inset-2 sm:inset-4 z-[1]">
                                     <Image
-                                        src="/images/Vector.png"
+                                        src="/images/Vector.svg"
                                         alt="vector Background"
                                         fill
                                         className="object-contain"

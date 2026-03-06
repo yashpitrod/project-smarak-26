@@ -12,7 +12,7 @@ export const teamHeads: TeamMember[] = [
     },
     {
         name: 'NAME',
-        description: 'post production head',
+        description: 'DESCRIPTION',
         imageSrc: '/images/dummy.png',
     },
     {
